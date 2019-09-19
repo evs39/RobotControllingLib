@@ -1,0 +1,24 @@
+Start	6	0										
+Command	3	-0.493	0.767	98.551	0	0	0	End				
+Command	6	0.5	30	30	0.01	10	10	End				
+Command	7	2	2	685	-155	110	180	0	180	0	0	End
+Command	7	2	255	685	0	110	180	0	180	0	0	End
+Command	7	2	2	465	-155	110	180	0	180	0	0	End
+Command	7	2	255	465	0	110	180	0	180	0	0	End
+Command	7	2	2	410	-31	110	180	0	180	0	0	End
+Command	7	2	255	500	-31	110	180	0	180	0	0	End
+Command	7	2	2	485	-31	140	180	0	180	0	0	End
+Command	7	2	255	485	-31	100	180	0	180	0	0	End
+Command	7	2	2	685	-31	140	180	0	180	0	0	End
+Command	7	2	255	685	-31	100	180	0	180	0	0	End
+Command	6	0.5	30	30	0.05	10	10	End				
+Command	7	2	2	685	-155	110	180	0	180	0	0	End
+Command	7	2	255	685	0	110	180	0	180	0	0	End
+Command	7	2	2	465	-155	110	180	0	180	0	0	End
+Command	7	2	255	465	0	110	180	0	180	0	0	End
+Command	7	2	2	410	-31	110	180	0	180	0	0	End
+Command	7	2	255	500	-31	110	180	0	180	0	0	End
+Command	7	2	2	485	-31	140	180	0	180	0	0	End
+Command	7	2	255	485	-31	100	180	0	180	0	0	End
+Command	7	2	2	685	-31	140	180	0	180	0	0	End
+Command	7	2	255	685	-31	100	180	0	180	0	0	End
